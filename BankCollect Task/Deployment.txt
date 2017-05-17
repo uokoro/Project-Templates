@@ -1,0 +1,15 @@
+****************Bank Collect Task Project******************
+Using this project template is pretty simple.
+Just copy the Zipped File BankCollect Task Template to [root directory]\...\Documents\Visual Studio 2015 [or installed version]\My Exported Templates
+and you'll be up and running.
+
+It comes with the Dependent dlls
+Parkway.Tools.Nhibernate
+Nhibernate
+Quartz
+Parkway.Scheduler
+
+
+If you build and it fails, Fix it yourself and let me know how you fixed it.
+
+Cheers
